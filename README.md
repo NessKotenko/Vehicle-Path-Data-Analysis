@@ -14,7 +14,7 @@ This project provides a suite of tools for processing, analyzing, and visualizin
 
 ### Prerequisites
 
-You need Python 3.7 or newer. The required packages are listed in the `requirements.txt` file.
+You need Python 3.13 or newer. The required packages are listed in the `requirements.txt` file.
 
 ### Installation
 
